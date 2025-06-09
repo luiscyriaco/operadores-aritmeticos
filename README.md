@@ -14,4 +14,9 @@ Divisão Decimal... /
 Exponenciação..... **
 Resto Divisão..... %
 
+operadores_aritmeticos.py
+
+Nesse exercício temos a criação de duas variáveis "a" e "b", que recebem os valores de 5 e 2.
+E logo depois temos a criação da variável soma a qual é atribuida a soma das variáveis a + b.
+Por fim o resultado do cálculo é apresentado ao usuário
 
