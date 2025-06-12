@@ -1,3 +1,5 @@
+### 1. Fazer um programa que solicite dois números inteiros ao usuário e exiba a soma desses valores.
+
 # Criando variáveis "a" e "b" e solicitando valor ao usuário
 print("Soma de dois números inteiros")
 a = int(input("Primeito Valor...."))
