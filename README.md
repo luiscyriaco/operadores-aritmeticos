@@ -29,4 +29,9 @@ Por fim utiliza-se o print para apresentar ao usuário o resultado da operação
 
 Esse exercício recebe os valores em reais digitados pelo usuário e a taxa de câmbio para conversão em dólares. Salientando que os valores decimais em Python devem ser inserido com "." e não ",".
 Em seguida é realizada uma operação de conversão com a fómula de divisão.
-Ao fim o resultado da conversão é apresentado ao usuário com o uso do "f", que tem a função de formatar o texto apresentado. O ":.2f" seguido da variável tem a função de limitar o resultado da conversão em apenas duas casas após a virgula (ex $ 4.10).
+Ao fim o resultado da conversão é apresentado ao usuário com o uso do "f", que tem a função de formatar o texto apresentado. O ":.2f" seguido da variável tem a função de limitar o resultado da conversão em apenas duas casas após a virgula (ex $ 4.10).operadores_aritmeticos.py
+
+Nesse exercício temos a criação de duas variáveis "a" e "b", que recebem os valores de 5 e 2.
+E logo depois temos a criação da variável soma a qual é atribuida a soma das variáveis a + b.
+Por fim o resultado do cálculo é apresentado ao usuário
+
