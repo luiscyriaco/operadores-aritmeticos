@@ -6,13 +6,13 @@ Os operadores usados em Python divergem dos operadores padrões da matemáticas,
 
 Breve explicação dos Operadores e suas funcionalidades:
 
-Adição............ +
-Subtração......... -
-Multiplicação..... *
-Divisão Inteira... //
-Divisão Decimal... /
-Exponenciação..... **
-Resto Divisão..... %
+* Adição............ +
+* Subtração......... -
+* Multiplicação..... *
+* Divisão Inteira... //
+* Divisão Decimal... /
+* Exponenciação..... **
+* Resto Divisão..... %
 
 Dos operadores apresentados acima, os únicos que divergem do padrão matemático são o "/" , "//" e o "%".
 "/" - é utilizado para retornar o resultado da divisão em número decimal ou float. ex 5 / 2 = 2.5.
@@ -27,7 +27,7 @@ Por fim utiliza-se o print para apresentar ao usuário o resultado da operação
 
 ## reais_dolares.py
 
-Esse exercício recebe os valores em reais digitados pelo usuário e a taxa de câmbio para conversão em dólares. Salientando que os valores decimais em Python devem ser inserido com "." e não ",".
+O exercício recebe os valores em reais digitados pelo usuário e a taxa de câmbio para conversão em dólares. Salientando que os valores decimais em Python devem ser inserido com "." e não ",".
 Em seguida é realizada uma operação de conversão com a fómula de divisão.
 Ao fim o resultado da conversão é apresentado ao usuário com o uso do "f", que tem a função de formatar o texto apresentado. O ":.2f" seguido da variável tem a função de limitar o resultado da conversão em apenas duas casas após a virgula (ex $ 4.10).operadores_aritmeticos.py
 
@@ -35,3 +35,12 @@ Nesse exercício temos a criação de duas variáveis "a" e "b", que recebem os 
 E logo depois temos a criação da variável soma a qual é atribuida a soma das variáveis a + b.
 Por fim o resultado do cálculo é apresentado ao usuário
 
+## dolares_reais.py
+
+O exercício segue o mesmo padrão do exercício anterior de coversão "reais_dolares.py".
+Para compreensão verifique explicação do exercício anterior.
+
+## conversão de medidas
+
+Exercício simples que recebe o valor em metros digitado pelo usuário, realiza a conversão e armazena na variável centimetros.
+Apresenta ao usuário o resultado da conversão em centímetros.
