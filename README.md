@@ -14,7 +14,10 @@ Breve explicação dos Operadores e suas funcionalidades:
 * Exponenciação..... **
 * Resto Divisão..... %
 
-Dos operadores apresentados acima, os únicos que divergem do padrão matemático são o "/" , "//" e o "%".  "/" - é utilizado para retornar o resultado da divisão em número decimal ou float. ex 5 / 2 = 2.5.  "//" - é utilizado para retornar o resultado da divisão em número inteiro, arredondando caso o resultado seja decimal. ex 5 // 2 = 2.  "%" é utilizado para retornar o resultado do resto de uma divisão. ex 5 % 2 = 1
+Dos operadores apresentados acima, os únicos que divergem do padrão matemático são o "/" , "//" e o "%".  
+"/" - é utilizado para retornar o resultado da divisão em número decimal ou float. ex 5 / 2 = 2.5.  
+"//" - é utilizado para retornar o resultado da divisão em número inteiro, arredondando caso o resultado seja decimal. ex 5 // 2 = 2.  
+"%" é utilizado para retornar o resultado do resto de uma divisão. ex 5 % 2 = 1
 
 ## soma_inteiros.py
 
