@@ -21,16 +21,15 @@ Dos operadores apresentados acima, os únicos que divergem do padrão matemátic
 
 ## soma_inteiros.py
 
-Esse exercício consiste na criação de 2 variáveis, de nomes "a" e "b" que terão seus valores digitados pelo usuário e então serão convertidas em número inteiro, para serem atribídas as respectivas variáveis.
-Em seguida é criada a variável soma que deverá receber a soma das variáveis "a + b".
+Esse exercício consiste na criação de 2 variáveis, de nomes "a" e "b" que terão seus valores digitados pelo usuário e então serão convertidas em número inteiro, para serem atribídas as respectivas variáveis.  
+Em seguida é criada a variável soma que deverá receber a soma das variáveis "a + b".  
 Por fim utiliza-se o print para apresentar ao usuário o resultado da operação armazenada na variável soma.
 
 ## reais_dolares.py
 
 O exercício recebe os valores em reais digitados pelo usuário e a taxa de câmbio para conversão em dólares. Salientando que os valores decimais em Python devem ser inserido com "." e não ",".
-Em seguida é realizada uma operação de conversão com a fómula de divisão.
-Ao fim o resultado da conversão é apresentado ao usuário com o uso do "f", que tem a função de formatar o texto apresentado. O ":.2f" seguido da variável tem a função de limitar o resultado da conversão em apenas duas casas após a virgula (ex $ 4.10).operadores_aritmeticos.py
-
+Em seguida é realizada uma operação de conversão com a fómula de divisão.  
+Ao fim o resultado da conversão é apresentado ao usuário com o uso do "f", que tem a função de formatar o texto apresentado. O ":.2f" seguido da variável tem a função de limitar o resultado da conversão em apenas duas casas após a virgula (ex $ 4.10).operadores_aritmeticos.py  
 Nesse exercício temos a criação de duas variáveis "a" e "b", que recebem os valores de 5 e 2.
 E logo depois temos a criação da variável soma a qual é atribuida a soma das variáveis a + b.
 Por fim o resultado do cálculo é apresentado ao usuário
@@ -42,10 +41,18 @@ Para compreensão verifique explicação do exercício anterior.
 
 ## metros_centimetros.py
 
-Exercício simples que recebe o valor em metros digitado pelo usuário, realiza a conversão e armazena na variável centimetros.
+Exercício simples que recebe o valor em metros digitado pelo usuário, realiza a conversão e armazena na variável centimetros.  
 Apresenta ao usuário o resultado da conversão em centímetros.
 
 ## centimetros_metros.py
 
-O exercício segue o mesmo padrão do exercício anterior de coversão de medidas "metros_centimetros.py".
+O exercício segue o mesmo padrão do exercício anterior de coversão de medidas "metros_centimetros.py".  
 Para compreensão verifique explicação do exercício anterior.
+
+## foto_qualidade.py
+
+Esse exercício solicita o tamanho em Giga Bytes ao usuário e atribui o valor a variável pen_drive.  
+Em seguida converte o tamanho do Pen Drive de GB para MB e armazena na variável pen_drive_mb.  
+Realiza o cálculo de capacidade de armazenamento do Pen Drive e armazena em qtd_fotos.  
+Apresentando por fim ao usuário a quantidade fotos aproximadas que podem ser armazenadas.  
+O :.0f garante que não sejam exibidos números decimais, pois não é possível armazenar partes de uma imagem.
