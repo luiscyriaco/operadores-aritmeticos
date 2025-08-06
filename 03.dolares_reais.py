@@ -1,5 +1,6 @@
-# 3.  Conversão de dólares: faça um programa que solicite a quantidade de sólares e a
-#  taxa de conversão, calcule e exiba a quantidade em reais.
+""" 03.  Conversão de dólares: faça um programa que solicite a quantidade de sólares e a 
+taxa de conversão, calcule e exiba a quantidade em reais.
+'""
 
 # Criando as variáveis que armazenarão o valor em dólares a ser convertido, e a taxa de câmbio.
 dolares = float(input("Digite o valor em dólares a ser convertido $ "))
