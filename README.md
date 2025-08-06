@@ -19,24 +19,21 @@ Dos operadores apresentados acima, os únicos que divergem do padrão matemátic
 "//" - é utilizado para retornar o resultado da divisão em número inteiro, arredondando caso o resultado seja decimal. ex 5 // 2 = 2.  
 "%" é utilizado para retornar o resultado do resto de uma divisão. ex 5 % 2 = 1
 
-## soma_inteiros.py
+## 01.soma_inteiros.py
 
-Esse exercício consiste na criação de 2 variáveis, de nomes "a" e "b" que terão seus valores digitados pelo usuário e então serão convertidas em número inteiro, para serem atribídas as respectivas variáveis.  
-Em seguida é criada a variável soma que deverá receber a soma das variáveis "a + b".  
-Por fim utiliza-se o print para apresentar ao usuário o resultado da operação armazenada na variável soma.
+"Este exercício consiste na criação de duas variáveis, de nomes "a" e "b", cujos valores serão digitados pelo usuário. Como os valores digitados para a linguagem Python são, inicialmente, armazenados em forma de texto (string), e textos não podem ser somados, precisaremos convertê-los em números inteiros para atribuí-los às respectivas variáveis.
+Em seguida, é criada a variável "soma", que deverá receber a soma das variáveis "a" e "b".
+Por fim, utiliza-se o comando print para apresentar ao usuário o resultado da operação armazenada na variável "soma"."
 
-## reais_dolares.py
+## 02.reais_dolares.py
 
-O exercício recebe os valores em reais digitados pelo usuário e a taxa de câmbio para conversão em dólares. Salientando que os valores decimais em Python devem ser inserido com "." e não ",".
-Em seguida é realizada uma operação de conversão com a fómula de divisão.  
-Ao fim o resultado da conversão é apresentado ao usuário com o uso do "f", que tem a função de formatar o texto apresentado. O ":.2f" seguido da variável tem a função de limitar o resultado da conversão em apenas duas casas após a virgula (ex $ 4.10).operadores_aritmeticos.py  
-Nesse exercício temos a criação de duas variáveis "a" e "b", que recebem os valores de 5 e 2.
-E logo depois temos a criação da variável soma a qual é atribuida a soma das variáveis a + b.
-Por fim o resultado do cálculo é apresentado ao usuário
+O exercício pede que o usuário insira um valor em reais e a taxa de câmbio para a conversão em dólares. É importante notar que, em Python, os valores decimais devem ser inseridos com um ponto (.) e não uma vírgula (,).
+Em seguida, uma operação de divisão realiza a conversão.
+Por fim, o resultado é exibido ao usuário. O caractere f no print formata o texto de saída, enquanto a expressão :.2f limita o resultado a apenas duas casas decimais, como no exemplo $ 4.10.
 
-## dolares_reais.py
+## 03.dolares_reais.py
 
-O exercício segue o mesmo padrão do exercício anterior de coversão de moeda "reais_dolares.py".
+O exercício segue o mesmo padrão do exercício anterior de coversão de moeda "02.reais_dolares.py".
 Para compreensão verifique explicação do exercício anterior.
 
 ## metros_centimetros.py
