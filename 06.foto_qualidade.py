@@ -1,6 +1,7 @@
-# 6. Uma foto de boa qualidade tem, em média, 10MB. Faça um programa que solicite a 
-# capacidade de um pen-drive em GB e determine a quantidade de fotos que pode ser 
-# armazenada nele.
+""" 06. Uma foto de boa qualidade tem, em média, 10MB. Faça um programa que solicite a 
+capacidade de um pen-drive em GB e determine a quantidade de fotos que pode ser 
+armazenada nele.
+"""
 
 # Criação da variável pen_drive e solicitação da capacidade do Pen Drive ao usuário.
 pen_drive = float(input("Insira a capacidade do Pen Drive em GB: "))
