@@ -46,10 +46,9 @@ Apresenta ao usuário o resultado da conversão em centímetros.
 O exercício segue o mesmo padrão do exercício anterior de coversão de medidas "metros_centimetros.py".  
 Para compreensão verifique explicação do exercício anterior.
 
-## foto_qualidade.py
+## 06.foto_qualidade.py
 
-Esse exercício solicita o tamanho em Giga Bytes ao usuário e atribui o valor a variável pen_drive.  
-Em seguida converte o tamanho do Pen Drive de GB para MB e armazena na variável pen_drive_mb.  
-Realiza o cálculo de capacidade de armazenamento do Pen Drive e armazena em qtd_fotos.  
-Apresentando por fim ao usuário a quantidade fotos aproximadas que podem ser armazenadas.  
+Este exercício solicita ao usuário o tamanho em Gigabytes e atribui o valor à variável pen_drive.
+Em seguida, converte o tamanho do Pen Drive de GB para MB e armazena na variável pen_drive_mb. Lembre-se de que a conversão de unidades de medida é realizada através da multiplicação do valor por 1024.
+Ele realiza o cálculo da capacidade de armazenamento do Pen Drive e armazena em qtd_fotos, apresentando, por fim, ao usuário a quantidade aproximada de fotos que podem ser armazenadas.
 O :.0f garante que não sejam exibidos números decimais, pois não é possível armazenar partes de uma imagem.
