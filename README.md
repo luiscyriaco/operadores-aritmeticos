@@ -52,3 +52,13 @@ Este exercício solicita ao usuário o tamanho em Gigabytes e atribui o valor à
 Em seguida, converte o tamanho do Pen Drive de GB para MB e armazena na variável pen_drive_mb. Lembre-se de que a conversão de unidades de medida é realizada através da multiplicação do valor por 1024.
 Ele realiza o cálculo da capacidade de armazenamento do Pen Drive e armazena em qtd_fotos, apresentando, por fim, ao usuário a quantidade aproximada de fotos que podem ser armazenadas.
 O :.0f garante que não sejam exibidos números decimais, pois não é possível armazenar partes de uma imagem.
+
+## 07.tempo_download.py
+
+Este exercício solicita ao usuário o tamanho do arquivo a ser baixado e o armazena na variável tamanho_arquivo.
+Em seguida, converte o tamanho do arquivo de MB para KB e o armazena na variável tamanho_arquivo_kb.
+Ele realiza o cálculo do tempo necessário para baixar o arquivo, levando em conta que são baixados 256 KB/s.
+Por fim, apresenta ao usuário o tempo aproximado necessário para o download do arquivo, em segundos.
+
+## 08.volume_concreto.py
+
