@@ -1,6 +1,7 @@
-# 7. Uma rede tem a velocidade de download de 256 KB/s. Faça um programa 
-# que solicite o tamanho de um arquivo em MB, calcule e exiba quanto tempo
-# será necessário para seu download.
+""" 07. Uma rede tem a velocidade de download de 256 KB/s. Faça um programa 
+que solicite o tamanho de um arquivo em MB, calcule e exiba quanto tempo
+será necessário para seu download.
+"""
 
 # Solitando o tamanho do arquivo que será baixado em MB e armazenando na variável tamanho_arquivo
 tamanho_arquivo = float(input(" Insira o tamanho do arquivo em MB: "))
