@@ -36,12 +36,12 @@ Por fim, o resultado é exibido ao usuário. O caractere f no print formata o te
 O exercício segue o mesmo padrão do exercício anterior de coversão de moeda "02.reais_dolares.py".
 Para compreensão verifique explicação do exercício anterior.
 
-## metros_centimetros.py
+## 04.metros_centimetros.py
 
 Exercício simples que recebe o valor em metros digitado pelo usuário, realiza a conversão e armazena na variável centimetros.  
 Apresenta ao usuário o resultado da conversão em centímetros.
 
-## centimetros_metros.py
+## 05.centimetros_metros.py
 
 O exercício segue o mesmo padrão do exercício anterior de coversão de medidas "metros_centimetros.py".  
 Para compreensão verifique explicação do exercício anterior.
