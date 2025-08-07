@@ -62,3 +62,8 @@ Por fim, apresenta ao usuário o tempo aproximado necessário para o download do
 
 ## 08.volume_concreto.py
 
+Este exercício requer um pouco de conhecimento de cálculo de volume, mas, na área de desenvolvimento, sempre será necessário pesquisar conhecimentos básicos ou pedir o apoio de alguém que tenha o conhecimento específico. Oriento que, em caso de dúvidas, façam uma pesquisa a respeito.
+Este cálculo é básico e consiste na multiplicação do comprimento pela altura e espessura. É importante observar que todas as unidades de medida precisam estar no mesmo padrão — em metros, centímetros ou milímetros. Como a proposta deste exercício é definir o volume necessário para a concretagem em m³, manteremos todas as medidas em metros.
+Dessa forma, o exercício solicita os valores de comprimento, largura e altura ao usuário e os armazena em suas devidas variáveis. Em seguida, realiza o cálculo do volume, multiplicando os valores.
+Depois, calcula a quantidade de caminhões necessários para transportar o volume total de concreto, considerando que cada caminhão tem capacidade para transportar 2,5 m³ de concreto.
+Por fim, exibe na tela, por meio de um print, o volume de concreto e a quantidade de caminhões necessários para o transporte.
